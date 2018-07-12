@@ -1,0 +1,4 @@
+com\soprasteria\ws\rest\vo\VOUsuarioDNI.class
+com\soprasteria\ws\rest\service\RestClientSopra.class
+com\soprasteria\ws\rest\service\ServiceLoginSS.class
+com\soprasteria\ws\rest\vo\VOUsuario.class
